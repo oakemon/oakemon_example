@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="oakemon_example:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="oakemon.war">
+      <element id="artifact" artifact-name="oakemon_example:war exploded" />
+    </root>
+  </artifact>
+</component>
